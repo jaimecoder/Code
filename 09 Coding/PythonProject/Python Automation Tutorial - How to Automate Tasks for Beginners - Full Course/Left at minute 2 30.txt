@@ -1,0 +1,4 @@
+15 Oct 2022
+Extract entities from complete PFD books
+	To know references, 
+	Can it create summaries out of complete books or chapters?

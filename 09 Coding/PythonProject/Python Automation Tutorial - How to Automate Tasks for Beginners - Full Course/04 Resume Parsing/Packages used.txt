@@ -1,0 +1,5 @@
+import pdfminer - pdf to text
+import spacy - nlp
+import re - regex
+import os - os file path
+import pandas as pd - output csv 

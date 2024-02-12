@@ -1,0 +1,6 @@
+Type, similar to cat? in Linux
+More is used to see it part by part
+
+type example.txt | more
+
+tree - shows tree graphic of folder structure

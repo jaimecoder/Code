@@ -1,0 +1,12 @@
+https://youtu.be/-VDXBHLU8q4
+
+Recommended resources:
+	Python for everybody
+	https://www.py4e.com/
+	The Odin project
+	https://www.theodinproject.com/
+	Harvard University cs50
+	https://pll.harvard.edu/course/cs50-introduction-computer-science
+	CS50's Web Programming with Python and JavaScript
+	https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript
+

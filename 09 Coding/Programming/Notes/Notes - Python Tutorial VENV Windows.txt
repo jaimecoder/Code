@@ -1,0 +1,97 @@
+https://youtu.be/APOPm01BVrk
+
+C:\Users\Corey>cd Desktop
+
+#List of packages
+pip list
+
+#Create new environment
+python -m venv project_env
+
+#Shows environment folder
+dir
+
+#Activate
+project_env\Scripts\activate.bat
+
+#Gives us the path to the current python command
+where python
+
+pip list
+(only pip and setuptools)
+
+#installs packages
+pip install requests
+pip install pytz
+
+cls
+
+#Shows all packages installed in virtual environment
+pip list
+
+#Export the packages used for a specific environment
+create, open and copy to requirements.txt file results from:
+pip freeze 
+
+#deactivate our environment
+deactivate
+
+#Delete de virtual environment altogether
+rmdir project_env /s 
+(You can drag to the trash bin)
+
+#author creates virtual environment inside the folder and names it:
+venv
+
+#Creates new project
+mkdir my_project
+#Creates virtual environment
+python -m venv my_project\venv
+
+#Activates
+my_project\venv\Scripts\activate.bat
+
+#Import packages from a text file
+Desktop> pip install -r requirements.txt
+
+pip list
+
+#The environment should be something that can be thrown away
+# You shouldn't commit your venv to source control
+# Requirements should be in source control
+cd my_project
+
+#We deactivate this environment
+deactivate
+
+#How to create an environment with the system packages
+pip list (in system install)
+#The author usually don't this
+
+rmdir venv /s (Erases the environment we just made)
+
+python -m venv venv --system-site-packages
+
+venv\Scripts/activate.bat
+pip list 
+(all of those system packages are also available inside this virtual environment)
+(Additional packages we install in this environment still won't affect the 
+systems packages)
+
+Example:
+pip install SQLAlchemy
+pip list (we have SQLAlchemy)
+
+#List only packages we installed in this environment
+pip list --local
+
+(To show we didn't install in the system packaging:)
+deactivate
+pip list
+
+(works on pip freeze --local will only bring the packages we installed in that
+environment as well)
+
+
+
+ 

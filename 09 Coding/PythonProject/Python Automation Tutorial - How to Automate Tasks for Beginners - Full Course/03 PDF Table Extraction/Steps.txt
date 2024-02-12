@@ -1,0 +1,10 @@
+. Basics of PDF file format
+. Installing required Python modules
+. Extracting Table from PDF
+. Introduction to Pandas Dataframe
+. Writing Table into a CSV
+
+Installed:
+Jupyter
+Camelot
+Seaborn

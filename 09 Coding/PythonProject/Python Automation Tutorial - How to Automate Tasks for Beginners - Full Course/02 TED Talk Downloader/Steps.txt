@@ -1,0 +1,5 @@
+. Installation and Introduction to requests package
+. Building the basic script to download de Video
+. Generalising the script to get arguments
+. Packaging the script as a CLI tool
+

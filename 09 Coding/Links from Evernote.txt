@@ -1,0 +1,46 @@
+https://www.dataquest.io/blog/python-json-tutorial/
+This tutorial teaches you to work with with large JSON files in Python using the Pandas library.
+
+https://blog.aweber.com/email-marketing/a-crash-course-in-email-automation.htm
+Think email automation isn't for you? Think again! From getting started to more advanced techniques, we've rounded up our top posts on email automation.
+
+http://shop.oreilly.com/product/0636920032861.do
+How do you take your data analysis skills beyond Excel to the next level? By learning just enough Python to get stuff done. This hands-on guide shows non-programmers like you how to process information that’s initially too messy or difficult...
+
+https://www.fullstackpython.com/vim.html
+Vim is a text editor with powerful string manipulation capabilities. Find out more about Vim on Full Stack Python.
+
+https://www.udemy.com/evernote-training/
+How internet marketers have better time management and organization by using Evernote. - Curso gratuito
+
+https://www.sitepoint.com/how-to-get-started-with-marketing-automation-for-free/
+Anja Skrba looks at seven marketing automation tools for entrepreneurs on a budget.
+
+https://www.searchenginejournal.com/3-excel-formulas-googles-keyword-planner-search-volume-numbers/187719/
+Run a copy and paste Excel formula to convert your Google Keyword Planner Search Volume to usable numbers within Excel.
+
+Free Trial | Content Samurai
+http://www.contentsamurai.com/freetrial/
+
+Automate the Boring Stuff with Python
+Practical programming for total beginners. Written by Al Sweigart.
+
+Oda a la alegría - Poemas de Pablo Neruda
+
+Extreme Multitasking with tmux and PuTTY
+
+List Building Excellence
+https://listbuildingexcellence.com/freebizinabox/
+
+A Step-by-Step Process for Discovering and Prioritizing the Best Keywords 
+https://moz.com/blog/discovering-prioritizing-best-keywords-whiteboard-friday?utm_source=facebook&utm_medium=social&utm_content=discovering_and_prioritizing_best_keywords&utm_campaign=whiteboard_friday
+
+Open Textbook Library
+Principles of Marketing
+
+How To Install And Use tmux On Ubuntu 12.10 | DigitalOcean
+
+How to effectively work with multiple files in Vim?
+
+Download and read Seth Godin books
+

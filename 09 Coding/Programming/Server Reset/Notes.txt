@@ -1,0 +1,21 @@
+Installed PHP 7.3 instead of 7.1
+
+Root MariaDB password: iamcatholic
+
+Database names:
+nomascancer
+gpgedificaciones
+
+Users
+nomascanceruser
+gpgedificacionesuser
+
+GRANT ALL ON nomascancer.* TO 'nomascanceruser'@'localhost' IDENTIFIED BY 'catholic';
+GRANT ALL ON gpgedificaciones.* TO 'gpgedificacionesuser'@'localhost' IDENTIFIED BY 'catholic';
+
+mysql -u root -p nomascancer < nomascancer.sql
+
+sudo nano /etc/apache2/sites-available/nomascancer.info.conf
+sudo nano /etc/apache2/sites-available/gpgedificaciones.com.conf
+
+sudo nano /var/www/html/nomascancer.info/wp-config.php

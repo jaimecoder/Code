@@ -1,0 +1,10 @@
+https://youtu.be/DLn3jOsNRVE
+
+1. Quiz game
+2. Number guesser game
+3. Rock, paper scissors
+4. Choose your own adventure
+5. Password manager
+
+Uses Visual Studio Code
+(42:54)
